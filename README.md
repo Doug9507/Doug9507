@@ -5,7 +5,6 @@
 I am a software developer & tech enthusiast. I have experience making desktop and web apps.
 
 <p align="center">
-  Skills:
 <a href="https://img.shields.io/badge/Backend-.NET-blue"><img src="https://img.shields.io/badge/Backend-.NET-blue" alt="NET"></a>
 <a href="https://img.shields.io/badge/Backend-Laravel-red"><img src="https://img.shields.io/badge/Backend-Laravel-red" alt="LARAVEL"></a>
 <a href="https://img.shields.io/badge/Frontend-JS-yellow"><img src="https://img.shields.io/badge/Frontend-JS-yellow" alt="JS"></a>
