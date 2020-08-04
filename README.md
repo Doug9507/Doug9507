@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Profile Banner](https://raw.githubusercontent.com/Doug9507/Doug9507/master/Profile-Banner.png)
+
 <!--
 **Doug9507/Doug9507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
