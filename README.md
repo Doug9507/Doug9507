@@ -14,7 +14,7 @@ I am a software developer & tech enthusiast. I have experience making desktop an
 <a href="https://img.shields.io/badge/Frontend-VUE-brightgreen"><img src="https://img.shields.io/badge/Frontend-VUE-brightgreen" alt="VUE"></a>
 </p>
 
-- 🔭 I’m currently working on at Universidad Cientifica del Peru. 
+- 🔭 I’m currently working at Universidad Cientifica del Peru. 
 - 🌱 I’m currently learning Flutter 
 - 💬 Ask me about any project you need my help. 
 
