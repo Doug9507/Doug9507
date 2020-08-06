@@ -15,7 +15,7 @@ I am a software developer & tech enthusiast. I have experience making desktop an
 </p>
 
 - 🔭 I’m currently working at Universidad Cientifica del Peru. 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Node JS 
 - 💬 Ask me about any project you need my help. 
 
 
