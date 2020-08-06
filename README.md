@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://raw.githubusercontent.com/Doug9507/Doug9507/master/Profile-Banner.png)
 
-I am a software developer & tech enthusiast. I have experience making web apps.
+I am a software developer & tech enthusiast. I have experience making desktop and web apps.
 
 <p align="center">
 <a href="https://img.shields.io/badge/Backend-.NET-blue" target="_blank"><img src="https://img.shields.io/badge/Backend-.NET-blue" alt="NET"></a>
