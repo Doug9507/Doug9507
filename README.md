@@ -6,16 +6,9 @@ I am a software developer & tech enthusiast. I have experience making desktop an
 
 <p align="center">
 <a href="https://img.shields.io/badge/Backend-.NET-blue" target="_blank"><img src="https://img.shields.io/badge/Backend-.NET-blue" alt="NET"></a>
-<a href="https://img.shields.io/badge/Backend-Laravel-red" target="_blank"><img src="https://img.shields.io/badge/Backend-Laravel-red" alt="LARAVEL"></a>
 <a href="https://img.shields.io/badge/Frontend-JS-yellow" target="_blank"><img src="https://img.shields.io/badge/Frontend-JS-yellow" alt="JS"></a>
-<a href="https://img.shields.io/badge/Frontend-HTML-orange" target="_blank"><img src="https://img.shields.io/badge/Frontend-HTML-orange" alt="HTML"></a>
-<a href="https://img.shields.io/badge/Frontend-CSS-green" target="_blank"><img src="https://img.shields.io/badge/Frontend-CSS-green" alt="CSS"></a>
-<a href="https://img.shields.io/badge/Frontend-BOOTSTRAP-blueviolet" target="_blank"><img src="https://img.shields.io/badge/Frontend-BOOTSTRAP-blueviolet" alt="BOOTSTRAP"></a>
-<a href="https://img.shields.io/badge/Frontend-VUE-brightgreen" target="_blank"><img src="https://img.shields.io/badge/Frontend-VUE-brightgreen" alt="VUE"></a>
 </p>
 
-- 🔭 I’m currently working at Universidad Cientifica del Peru. 
-- 🌱 I’m currently learning Flutter 
 - 💬 Ask me about any project you need my help. 
 
 
