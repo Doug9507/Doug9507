@@ -10,4 +10,5 @@ I am a software developer & tech enthusiast. I have experience making desktop an
 <a href="https://img.shields.io/badge/Cloud-Azure-blue" target="_blank"><img src="https://img.shields.io/badge/Cloud-Azure-blue" alt="Azure"></a>
 </p>
 
-- 💬 Ask me about any project you need my help. 
+- 💬 Ask me about any project you need my help.
+- 💬 Get in touch: [LinkedIn](https://www.linkedin.com/in/jaime-douglas-p-23aa29155/)
