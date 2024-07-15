@@ -11,4 +11,4 @@ I am a software developer & tech enthusiast. I have experience making desktop an
 </p>
 
 - 💬 Ask me about any project you need my help.
-- 💬 Get in touch: <a href="https://www.linkedin.com/in/jaime-douglas-p-23aa29155/" target="_blank">LinkedIn</a>
+- 💬 Get in touch: [LinkedIn](https://www.linkedin.com/in/jaime-douglas-p-23aa29155/)
